@@ -1,0 +1,22 @@
+{
+  "name": "eurobot",
+  "version": "1.0.0",
+  "description": "A Bot for euro 2016 prediction game.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Farnam/eurobot.git"
+  },
+  "keywords": [
+    "euro"
+  ],
+  "author": "Farnam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Farnam/eurobot/issues"
+  },
+  "homepage": "https://github.com/Farnam/eurobot#readme"
+}
