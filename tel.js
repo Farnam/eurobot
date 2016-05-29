@@ -1,7 +1,6 @@
 'use strict'
 
 var tg = require('telegram-node-bot')('228379592:AAElbqkzQbAafGNkJzadwK3hMPByMU_UFvo')
-var results = 'http://a.dilcdn.com/bl/wp-content/uploads/sites/6/2015/11/rebel-symbol.jpg';
 
 tg.router.
 	when (['/menu'], 'MenuController')
